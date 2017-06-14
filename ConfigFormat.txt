@@ -1,0 +1,11 @@
+#ICARuS configeration file format
+#Number_of_threads <int>
+#ReadType <Paired> or <Unpaired>
+#Direction_of_paired ends <FR> or <Option for aligner HISAT2>
+#Clipping_in_forward <int>
+#Clipping_in_reverse <int>
+#Readpath
+#.
+#.
+#.
+#.
